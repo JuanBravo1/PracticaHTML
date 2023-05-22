@@ -1,0 +1,53 @@
+h1 {
+    color:cadetblue;
+    font-size: 24px;
+    text-align: center;
+  }
+h2{
+    color:black;
+    text-align: center;
+}
+  body{
+    background-color:bisque
+  }
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table th, table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  
+  a {
+    color: green;
+    text-decoration: none;
+  }
+
+  #img1 {
+    display: block;
+    margin: auto;
+    
+  }
+#Titulo1{
+  border: 3px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+
+}
+
+#Titulo2{
+  border: 3px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
